@@ -50,6 +50,9 @@
 	    "usingComponents" : true
 	},
     "h5" : {
-        "title" : "CloudUi"
+        "title" : "CloudUi",
+        "devServer":{
+            "port": 8086
+        }
     }
 }
