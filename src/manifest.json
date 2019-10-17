@@ -50,7 +50,11 @@
 	    "usingComponents" : true
 	},
     "h5" : {
-        "title" : "CloudUi",
+        "title" : "CloudUI",
+        "router":{
+            "mode": "hash",
+            "base": "/CloudUI/"
+        },
         "devServer":{
             "port": 8086
         }
